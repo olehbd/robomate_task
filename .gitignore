@@ -1,0 +1,32 @@
+# Віртуальні середовища
+.venv/
+venv/
+env/
+ENV/
+
+# Кеші
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / редактори
+.idea/
+*.swp
+
+# Тести, лог-файли
+*.log
+.coverage
+htmlcov/
+
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# Бібліотеки / залежності
+*.egg-info/
+dist/
+build/
+
+# Конфіденційні файли
+#.env
+#.env.*
